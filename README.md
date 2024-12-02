@@ -654,7 +654,7 @@ I am not actively looking for a job right now, however if you feel like I am exa
 Just [message me on Telegram](https://t.me/max_seainside) or [email me](mailto:max.seainside@gmail.com).
 
 I'd be happy to work on a product I'll believe in,
-and if there are people on the team who really care about what they're doing - people like me.
+and if there are people in the team who really care about what they're doing - people like me.
 
 ---
 
