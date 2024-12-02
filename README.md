@@ -86,7 +86,7 @@ between specialists of different levels with different views, or even across dif
   * As a big fan of universal code beauty, I'm a member of [stylelint-stylistic](https://github.com/stylelint-stylistic) organization. \
     We're working on standardizing and maintaining stylistic rules, that are [no longer supported](https://github.com/stylelint/stylelint/issues/6961) by Stylelint itself.
   * [Commitlint config](https://github.com/MorevM/commitlint-config) provides a unified style of commits
-    (using [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) with ability to expand) and changelog generation.
+    (using [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) with ability to expand) and changelog generation.
 
 </details>
 
@@ -583,7 +583,7 @@ My main expertise is Vue, I love and believe in this framework. I have been work
   ---
 
   Years ago I was relatively good at it, but for the last 5 years or so I've hardly ever come across it, meaning developing on my own. \
-  Nevertheless - understanding remains, which allows better communication with related specialists and this is important when designing systems.
+  Nevertheless - understanding remains, which allows better communication with related specialists and this is important when designing systems.
 
 </details>
 
@@ -654,7 +654,7 @@ I am not actively looking for a job right now, however if you feel like I am exa
 Just [message me on Telegram](https://t.me/max_seainside) or [email me](mailto:max.seainside@gmail.com).
 
 I'd be happy to work on a product I'll believe in,
-and if there are people on the team who really care about what they're doing - people like me.
+and if there are people on the team who really care about what they're doing - people like me.
 
 ---
 
