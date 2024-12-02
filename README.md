@@ -1,6 +1,6 @@
 ![Promotional image of Maxim Morev's account](./.github/assets/banner.png)
 
-# Hello!
+# Welcome!
 
 I'm Maxim Morev, a web developer with 16 years of experience who is still interested and still cares.
 
