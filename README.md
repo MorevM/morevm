@@ -1,4 +1,4 @@
-![Promotional image of Maxim Morev's account](./.github/assets/banner.png)
+<img src="./.github/assets/banner.png" alt="Promotional image of Maxim Morev's account" width="846" height="345" />
 
 # Welcome!
 
