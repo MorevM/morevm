@@ -12,7 +12,7 @@ My passion is everything about Frontend, especially:
 
 I try to keep most of my solutions in Open Source and contribute to other projects as well.
 
-**Contacts**: [Telegram](https://t.me/max_seainside) / [Email](mailto:max.seainside@gmail.com)
+**Contacts**: [Telegram](https://t.me/max_seainside) / [Email](mailto:max.seainside@gmail.com) \
 **Media**: [YouTube](https://www.youtube.com/@MorevOnline) / [Rutube](https://rutube.ru/channel/741545/) (all content in Russian)
 
 You may also be interested in [things I use](https://github.com/MorevM/use) (hardware, software, environment, extensions and so on)
