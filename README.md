@@ -90,6 +90,9 @@ between specialists of different levels with different views, or even across dif
     We're working on standardizing and maintaining stylistic rules, that are [no longer supported](https://github.com/stylelint/stylelint/issues/6961) by Stylelint itself.
   * [Commitlint config](https://github.com/MorevM/commitlint-config) provides a unified style of commits
     (using [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) with ability to expand) and changelog generation.
+  * My [platform agnostic solution for testing Stylelint plugins](https://github.com/MorevM/commitlint-config) might help you
+    if you're developing your own Stylelint plugin, but in general I put this here to showcase my work as a tech writer -
+    [check out the documentation](https://morevm.github.io/stylelint-testing-library/).
 
 </details>
 
