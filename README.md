@@ -6,8 +6,8 @@ I'm Maxim Morev, a web developer with 16 years of experience who is still intere
 
 My passion is everything about Frontend, especially:
 
-* Client-side development, including UI/UX engineering;
-* Solutions that improve DX and management processes;
+* Frontend development, including UI/UX engineering;
+* Solutions that improve DX and workflow optimization;
 * Mentorship, educating aspiring specialists.
 
 I try to keep most of my solutions in Open Source and contribute to other projects as well.
@@ -87,11 +87,11 @@ between specialists of different levels with different views, or even across dif
   * Take a look on [StyleLint config](https://github.com/MorevM/stylelint-config) that contains more than 200 rules for CSS and 70+ for SCSS,
     including autoformatting to maintain order within rules and properties and other good practices.
   * As a big fan of universal code beauty, I'm a member of [stylelint-stylistic](https://github.com/stylelint-stylistic) organization. \
-    We're working on standardizing and maintaining stylistic rules, that are [no longer supported](https://github.com/stylelint/stylelint/issues/6961) by Stylelint itself.
+    We're maintaining stylistic rules that are [no longer supported](https://github.com/stylelint/stylelint/issues/6961) in the core Stylelint project.
   * [Commitlint config](https://github.com/MorevM/commitlint-config) provides a unified style of commits
     (using [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) with ability to expand) and changelog generation.
   * My [platform agnostic solution for testing Stylelint plugins](https://github.com/MorevM/commitlint-config) might help you
-    if you're developing your own Stylelint plugin, but in general I put this here to showcase my work as a tech writer -
+    if you're developing your own Stylelint plugin, I'm also including this as a sample of my technical writing -
     [check out the documentation](https://morevm.github.io/stylelint-testing-library/).
 
 </details>
@@ -171,8 +171,8 @@ between specialists of different levels with different views, or even across dif
 
 I'm convinced that the smaller the codebase is, the better it is for the project.
 
-Separating recurring elements into libraries, forming their public API in such a way 
-that they can be used for all purposes is not an easy task, requiring large expertise and wide experience. \
+Abstracting common elements into reusable libraries with thoughtful public APIs isn't trivial — 
+it takes both experience and perspective. \
 As an extremely T-shaped specialist, I'm coping with it so far :)
 
 <details>
