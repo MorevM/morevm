@@ -682,7 +682,3 @@ and if there are people in the team who really care about what they're doing - p
     <img alt="Maxim Morev's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morevm&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=846&bg_color=f7f7f7&title_color=2145f8" />
   </picture>
 </div>
-
----
-
-![Profile views counter](https://visitcount.itsvg.in/api?id=morevm&icon=5&color=6)
