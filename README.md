@@ -93,6 +93,12 @@ between specialists of different levels with different views, or even across dif
   * My [platform agnostic solution for testing Stylelint plugins](https://github.com/MorevM/commitlint-config) might help you
     if you're developing your own Stylelint plugin, I'm also including this as a sample of my technical writing -
     [check out the documentation](https://morevm.github.io/stylelint-testing-library/).
+  * My [Stylelint plugin](https://github.com/morevm/stylelint-plugin/) for clean, consistent, and scalable CSS, SCSS, and BEM. \
+    Another example of my approach to API design and [documentation](https://morevm.github.io/stylelint-plugin/) quality.
+  * I also attempted to contribute to the core of [ESLint](https://github.com/eslint/eslint) via an [RFC](https://github.com/eslint/rfcs/pull/134/)
+    proposing per-rule autofix configuration. \
+    Although it was not accepted, the discussion turned into a deep and extensive exploration of trade-offs,
+    constraints, and design decisions - a good reflection of how I approach complex engineering problems.
 
 </details>
 
