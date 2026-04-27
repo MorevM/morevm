@@ -308,7 +308,6 @@ All of the above is fine, but I believe it's also important to do "day-to-day" d
   Some of my publicly available projects that I can tell you about my participation in: 
 
   * <https://uflor.ru/>
-  * <https://championtool.ru/>
   * <https://prostudio.ru/>
 
 </details>
