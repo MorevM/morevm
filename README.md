@@ -1,4 +1,14 @@
 <img src="./.github/assets/banner.png" alt="Promotional image of Maxim Morev's account" width="846" height="345" />
+<img src="./.github/assets/open-to-work.png" alt="Open to work" width="846" height="52" />
+
+Looking for a **Senior Frontend / Tech Lead** position (Remote).
+
+I build scalable frontend architectures, develop robust UI/UX, and lead teams to improve engineering quality.
+
+📄 CV: [Maxim Morev CV](https://raw.githubusercontent.com/morevm/morevm/master/.github/assets/Maxim-Morev-Frontend-CV.pdf) \
+📩 Contact me via [Telegram](https://t.me/max_seainside) or [Email](mailto:max.seainside@gmail.com)
+
+---
 
 # Welcome!
 
@@ -656,16 +666,6 @@ My main expertise is Vue, I love and believe in this framework. I have been work
   But for now, it's the same as it is with the backend - my focus has shifted heavily towards the frontend in the last few years.
 
 </details>
-
----
-
-## 💵 Job offers
-
-I am not actively looking for a job right now, however if you feel like I am exactly who you are looking for - let's talk about. \
-Just [message me on Telegram](https://t.me/max_seainside) or [email me](mailto:max.seainside@gmail.com).
-
-I'd be happy to work on a product I'll believe in,
-and if there are people in the team who really care about what they're doing - people like me.
 
 ---
 
